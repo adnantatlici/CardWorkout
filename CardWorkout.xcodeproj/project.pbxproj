@@ -13,6 +13,7 @@
 		61BE7F702954DEC800C38D0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61BE7F6F2954DEC800C38D0F /* Assets.xcassets */; };
 		61BE7F732954DEC800C38D0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61BE7F712954DEC800C38D0F /* LaunchScreen.storyboard */; };
 		61BE7F7B2954E2C000C38D0F /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE7F7A2954E2C000C38D0F /* CardSelectionVC.swift */; };
+		61BEDBDC29575D9F00F26D50 /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BEDBDB29575D9F00F26D50 /* Cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		61BE7F722954DEC800C38D0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61BE7F742954DEC800C38D0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61BE7F7A2954E2C000C38D0F /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
+		61BEDBDB29575D9F00F26D50 /* Cards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				61BE7F662954DEC700C38D0F /* AppDelegate.swift */,
 				61BE7F682954DEC700C38D0F /* SceneDelegate.swift */,
 				61BE7F7A2954E2C000C38D0F /* CardSelectionVC.swift */,
+				61BEDBDB29575D9F00F26D50 /* Cards.swift */,
 				61BE7F6C2954DEC700C38D0F /* Main.storyboard */,
 				61BE7F6F2954DEC800C38D0F /* Assets.xcassets */,
 				61BE7F712954DEC800C38D0F /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				61BE7F672954DEC700C38D0F /* AppDelegate.swift in Sources */,
 				61BE7F692954DEC700C38D0F /* SceneDelegate.swift in Sources */,
 				61BE7F7B2954E2C000C38D0F /* CardSelectionVC.swift in Sources */,
+				61BEDBDC29575D9F00F26D50 /* Cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
